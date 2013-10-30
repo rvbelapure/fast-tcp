@@ -5,7 +5,7 @@ INCLUDEDIR = ../../lwip/src/include/
 LWIPOPTDIR = ../../
 IPV4INCLUDEDIR = ../../lwip/src/include/ipv4
 UNIXINCLUDEDIR = ../ports/unix/include
-LWIPLIBDIR = /home/gangil/dev/fast-tcp/src/ttcp/contrib/ports/unix/proj/lib
+LWIPLIBDIR = ../ports/unix/proj/lib
 
 all: examples
 
