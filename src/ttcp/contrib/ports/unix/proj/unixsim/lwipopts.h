@@ -166,7 +166,7 @@ a lot of data that needs to be copied, this should be set high. */
 #define TCP_SNDLOWAT		(TCP_SND_BUF/2)
 
 /* TCP receive window. */
-#define TCP_WND                 8096
+#define TCP_WND                 4096
 
 /* Maximum number of retransmissions of data segments. */
 #define TCP_MAXRTX              12
